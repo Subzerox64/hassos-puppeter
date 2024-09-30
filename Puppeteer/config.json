@@ -1,7 +1,7 @@
 {
     "name": "Chromium(node)",
     "version": "1.0.0",
-    "slug": "Subzero-Puppeteer",
+    "slug": "Puppeteer",
     "description": "A custom Node.js add-on with puppeteer to use chromium",
     "startup": "application",
     "arch": ["amd64", "armv7", "aarch64"],
