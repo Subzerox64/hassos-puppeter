@@ -1,0 +1,3 @@
+Its really simple I dont know what to say...
+
+All you do is go to addons then click the three dots, add the new repo, then refresh and boom your done.
