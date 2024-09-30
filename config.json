@@ -1,0 +1,14 @@
+{
+    "name": "Chromium(node)",
+    "version": "1.0.0",
+    "slug": "Subzero-Puppeteer",
+    "description": "A custom Node.js add-on with puppeteer to use chromium",
+    "startup": "application",
+    "arch": ["amd64", "armv7", "aarch64"],
+    "boot": "auto",
+    "ports": {
+        "3000/tcp": 3000
+    },
+    "options": {},
+    "schema": {}
+}
